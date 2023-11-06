@@ -1,0 +1,12 @@
+{
+  "name": "chat-tennet",
+  "version": "0.7.0",
+  "private": false,
+  "license": "MIT",
+  "keywords": ["tennet", "chat", "react"],
+  "author": {
+    "name": "jhosorio",
+    "email": "jhostineosorio@gmail.com",
+    "url": "https://github.com/JhostinOsorio"
+  }
+}
