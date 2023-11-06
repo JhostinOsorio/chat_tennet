@@ -450,10 +450,11 @@ video {
   padding: 16px;
   cursor: pointer;
   color: white;
-  background-color: #111;
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 71 194 / var(--tw-bg-opacity));
 }
 .chat-button:hover {
-  background-color: #555;
+  --tw-bg-opacity: 0.8;
 }
 .chat-button__text {
   display: none;
@@ -482,7 +483,8 @@ video {
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
-  background-color: #111;
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 71 194 / var(--tw-bg-opacity));
   color: #FFF;
 }
 .tennet-iframe main._zMSGP {
